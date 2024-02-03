@@ -45,7 +45,7 @@
 #include <algorithm>
 using namespace std;
 
-
+//要从这里开始提取每个块的信息
 //! \ingroup TLibEncoder
 //! \{
 
